@@ -5,3 +5,8 @@ The cleaning process reduced the players to only quarterbacks who started their 
 These rules mean that any player from this data set may have records for 5 years (data set is 2009-2013), which is a little more than the average career.
 
 Ultimately, I didn't use this set, but the cleaning process might be helpful to some people.
+
+Files:
+NFL Offensive player stats... = original data
+QBprocessed.csv = final data
+reformat.R = processing steps taken in R
